@@ -1,10 +1,15 @@
+# 117bcd7ca3a8e87bb63dff50b177f170
+# 9349598e9f11f5eddceb6791daa6d787
+# e6af5b5feb891b272e18f5e2fc0370a6
+
+
 import requests
 import pandas as pd
 from collections import namedtuple
 
 
 # Listado de variables que necesito
-var = 'time,summary,precipAccumulation,precipIntensity,precipIntensityMax,precipIntensityMaxTime,\
+var = 'time,summary,precipAccumulation,precipIntensity,precipIntensityMax,\
 precipProbability,precipType,humidity,pressure,windSpeed,uvIndex,temperatureMin,temperatureMax,omm_esta,codigo'
 # Transformo en listado
 features = var.split(',')
