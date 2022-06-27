@@ -1,0 +1,358 @@
+Date;omm_id;nombre;summary;temperatura;humidity;pressure;windSpeed;uvIndex;temperatureMin;temperatureMax;precipAccumulation
+2021-07-01;Rio Cuarto Aero;87453;Clear throughout the day.;9.635;0.45;1016.2;15.69;3;0.36;18.91;0.024
+2021-07-02;Rio Cuarto Aero;87453;Clear throughout the day.;11.865;0.41;1022.9;12.56;3;5.18;18.55;0.0288
+2021-07-03;Rio Cuarto Aero;87453;Overcast throughout the day.;11.55;0.35;1023.1;15.77;2;2.03;21.07;0.0
+2021-07-04;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;12.105;0.47;1018.8;13.25;3;4.44;19.77;0.0
+2021-07-05;Rio Cuarto Aero;87453;Clear throughout the day.;12.95;0.61;1020.1;12.01;3;3.99;21.91;0.0
+2021-07-06;Rio Cuarto Aero;87453;Clear throughout the day.;15.995000000000001;0.64;1013.1;22.73;3;8.51;23.48;0.14400000000000002
+2021-07-07;Rio Cuarto Aero;87453;Clear throughout the day.;15.365;0.75;1016.3;11.93;3;9.52;21.21;0.5256
+2021-07-08;Rio Cuarto Aero;87453;Clear throughout the day.;15.55;0.72;1013.8;16.95;3;7.53;23.57;0.0
+2021-07-09;Rio Cuarto Aero;87453;Clear throughout the day.;17.32;0.66;1009.7;11.27;3;8.76;25.88;0.0
+2021-07-10;Rio Cuarto Aero;87453;Clear throughout the day.;12.265;0.38;1021.1;16.84;3;7.5;17.03;0.0168
+2021-07-11;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;13.875;0.36;1014.3;18.51;3;7.13;20.62;0.0
+2021-07-12;Rio Cuarto Aero;87453;Overcast throughout the day.;14.395;0.61;1012.1;11.06;3;7.43;21.36;0.0
+2021-07-13;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;12.47;0.6;1017.9;12.29;3;7.41;17.53;0.0672
+2021-07-14;Rio Cuarto Aero;87453;Possible light rain in the morning and afternoon.;10.675;0.66;1018.0;8.62;3;6.55;14.8;4.8384
+2021-07-15;Rio Cuarto Aero;87453;Clear throughout the day.;11.544999999999998;0.49;1021.5;13.88;4;4.51;18.58;0.0
+2021-07-16;Rio Cuarto Aero;87453;Clear throughout the day.;12.735000000000001;0.33;1014.7;14.27;3;2.69;22.78;0.0
+2021-07-17;Rio Cuarto Aero;87453;Clear throughout the day.;9.14;0.29;1025.8;24.72;3;4.16;14.12;0.0
+2021-07-18;Rio Cuarto Aero;87453;Clear throughout the day.;8.605;0.28;1030.1;14.31;3;1.67;15.54;0.0
+2021-07-19;Rio Cuarto Aero;87453;Clear throughout the day.;9.885000000000002;0.25;1024.1;14.13;3;-0.4;20.17;0.0
+2021-07-20;Rio Cuarto Aero;87453;Clear throughout the day.;11.600000000000001;0.31;1018.5;8.69;3;1.03;22.17;0.0
+2021-07-21;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;13.13;0.38;1017.6;10.67;4;3.14;23.12;0.0
+2021-07-22;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;15.975000000000001;0.34;1016.7;17.82;3;6.69;25.26;0.0
+2021-07-23;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;14.9;0.41;1013.4;13.5;3;5.88;23.92;0.0
+2021-07-24;Rio Cuarto Aero;87453;Clear throughout the day.;12.925;0.61;1012.9;14.83;4;6.14;19.71;0.0
+2021-07-25;Rio Cuarto Aero;87453;Clear throughout the day.;12.41;0.56;1013.8;17.14;4;6.5;18.32;0.0
+2021-07-26;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;10.085;0.44;1021.8;16.9;3;4.7;15.47;0.0
+2021-07-27;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;7.505;0.27;1028.2;23.26;3;1.93;13.08;0.0
+2021-07-28;Rio Cuarto Aero;87453;Clear throughout the day.;6.694999999999999;0.39;1032.1;16.45;4;0.28;13.11;0.0
+2021-07-29;Rio Cuarto Aero;87453;Clear throughout the day.;7.77;0.35;1026.3;14.37;4;-1.21;16.75;0.0
+2021-07-30;Rio Cuarto Aero;87453;Clear throughout the day.;10.54;0.32;1019.7;18.4;4;-0.14;21.22;0.0
+2021-07-31;Rio Cuarto Aero;87453;Clear throughout the day.;11.32;0.37;1025.5;13.29;4;1.87;20.77;0.0
+2021-08-01;Rio Cuarto Aero;87453;Clear throughout the day.;10.675;0.45;1031.4;11.18;4;0.84;20.51;0.0
+2021-08-02;Rio Cuarto Aero;87453;Clear throughout the day.;13.025;0.36;1025.8;18.17;4;3.12;22.93;0.0
+2021-08-03;Rio Cuarto Aero;87453;Clear throughout the day.;13.955;0.38;1024.5;12.73;4;3.47;24.44;0.0
+2021-08-04;Rio Cuarto Aero;87453;Clear throughout the day.;14.219999999999999;0.38;1024.7;20.38;4;5.33;23.11;0.0
+2021-08-05;Rio Cuarto Aero;87453;Clear throughout the day.;16.125;0.35;1019.7;25.71;4;7.97;24.28;0.0
+2021-08-06;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;17.745;0.36;1014.2;24.98;4;8.89;26.6;0.0
+2021-08-07;Rio Cuarto Aero;87453;Clear throughout the day.;16.245;0.46;1012.6;17.32;4;9.21;23.28;0.0
+2021-08-08;Rio Cuarto Aero;87453;Possible drizzle in the afternoon and evening.;8.95;0.65;1019.7;24.07;3;5.36;12.54;2.1648
+2021-08-09;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;8.174999999999999;0.64;1028.3;17.8;3;3.82;12.53;0.6792
+2021-08-10;Rio Cuarto Aero;87453;Clear throughout the day.;7.92;0.55;1027.0;8.99;4;-1.36;17.2;0.0
+2021-08-11;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;9.41;0.41;1027.8;9.79;4;0.52;18.3;0.0
+2021-08-12;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;10.120000000000001;0.39;1026.8;16.06;4;2.69;17.55;0.0
+2021-08-13;Rio Cuarto Aero;87453;Clear throughout the day.;11.175;0.36;1024.3;16.88;4;3.59;18.76;0.0
+2021-08-14;Rio Cuarto Aero;87453;Clear throughout the day.;11.545;0.36;1020.9;12.28;4;1.57;21.52;0.0
+2021-08-15;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;13.095;0.36;1015.7;20.31;4;3.55;22.64;0.0
+2021-08-16;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;16.98;0.42;1008.5;16.71;4;7.67;26.29;0.0
+2021-08-17;Rio Cuarto Aero;87453;Clear throughout the day.;16.68;0.53;1009.4;9.52;5;7.64;25.72;0.0
+2021-08-18;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;20.3;0.53;1004.9;13.32;4;11.05;29.55;0.0
+2021-08-19;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;15.67;0.57;1006.8;16.77;4;10.0;21.34;0.036000000000000004
+2021-08-20;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;13.54;0.48;1017.9;12.27;3;8.18;18.9;0.16319999999999998
+2021-08-21;Rio Cuarto Aero;87453;Windy in the afternoon.;14.854999999999999;0.42;1010.4;27.54;3;7.47;22.24;0.0
+2021-08-22;Rio Cuarto Aero;87453;Clear throughout the day.;14.879999999999999;0.32;1010.0;16.52;5;9.7;20.06;0.0
+2021-08-23;Rio Cuarto Aero;87453;Clear throughout the day.;10.535;0.22;1014.7;10.59;5;4.05;17.02;0.0
+2021-08-24;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;9.799999999999999;0.34;1014.7;11.68;5;1.27;18.33;0.0
+2021-08-25;Rio Cuarto Aero;87453;Clear throughout the day.;12.825;0.29;1015.1;9.64;5;4.4;21.25;0.0024000000000000002
+2021-08-26;Rio Cuarto Aero;87453;Clear throughout the day.;14.475000000000001;0.26;1015.1;14.23;5;4.4;24.55;0.0
+2021-08-27;Rio Cuarto Aero;87453;Clear throughout the day.;11.760000000000002;0.33;1018.5;15.7;5;3.24;20.28;0.0
+2021-08-28;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;17.48;0.35;1017.2;16.61;5;9.64;25.32;0.0
+2021-08-29;Rio Cuarto Aero;87453;Clear throughout the day.;19.119999999999997;0.4;1018.9;23.46;6;11.84;26.4;0.0
+2021-08-30;Rio Cuarto Aero;87453;Clear throughout the day.;20.925;0.48;1012.1;25.6;6;12.56;29.29;0.0
+2021-08-31;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;23.75;0.55;1008.3;24.23;6;15.87;31.63;0.7992000000000001
+2021-09-01;Rio Cuarto Aero;87453;Rain until morning, starting again in the evening.;18.525;0.76;1011.2;17.7;4;15.29;21.76;5.4336
+2021-09-02;Rio Cuarto Aero;87453;Rain in the morning and afternoon.;14.515;0.84;1018.3;13.94;4;12.39;16.64;17.700000000000003
+2021-09-03;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;15.14;0.74;1016.8;14.98;5;10.67;19.61;0.1488
+2021-09-04;Rio Cuarto Aero;87453;Possible light rain in the afternoon.;15.015;0.76;1013.4;18.98;4;10.85;19.18;2.4456
+2021-09-05;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;13.815;0.71;1017.0;14.88;5;7.75;19.88;0.024
+2021-09-06;Rio Cuarto Aero;87453;Rain overnight.;15.620000000000001;0.74;1012.7;21.32;4;11.49;19.75;0.672
+2021-09-07;Rio Cuarto Aero;87453;Rain throughout the day.;12.879999999999999;0.88;1012.7;20.21;3;10.45;15.31;16.308
+2021-09-08;Rio Cuarto Aero;87453;Possible light rain in the morning and afternoon.;9.100000000000001;0.76;1017.5;40.75;4;7.65;10.55;3.768
+2021-09-09;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;11.670000000000002;0.68;1019.7;26.6;5;6.58;16.76;0.07200000000000001
+2021-09-10;Rio Cuarto Aero;87453;Clear throughout the day.;12.605;0.63;1018.3;13.91;6;3.78;21.43;0.0
+2021-09-11;Rio Cuarto Aero;87453;Windy and mostly cloudy throughout the day.;17.07;0.52;1008.2;36.09;5;9.39;24.75;0.0
+2021-09-12;Rio Cuarto Aero;87453;Clear throughout the day.;18.35;0.46;1004.8;22.38;6;12.22;24.48;0.0
+2021-09-13;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;15.05;0.6;1012.0;21.47;5;9.47;20.63;0.5928
+2021-09-14;Rio Cuarto Aero;87453;Clear throughout the day.;11.565000000000001;0.4;1021.5;18.23;6;5.24;17.89;0.5184
+2021-09-15;Rio Cuarto Aero;87453;Clear throughout the day.;13.594999999999999;0.3;1020.8;15.45;7;4.26;22.93;0.0
+2021-09-16;Rio Cuarto Aero;87453;Clear throughout the day.;16.64;0.24;1021.7;19.8;7;8.21;25.07;0.0
+2021-09-17;Rio Cuarto Aero;87453;Clear throughout the day.;19.64;0.31;1015.0;20.76;7;11.88;27.4;0.0
+2021-09-18;Rio Cuarto Aero;87453;Clear throughout the day.;20.725;0.38;1010.7;19.85;7;12.79;28.66;0.0
+2021-09-19;Rio Cuarto Aero;87453;Rain overnight.;20.59;0.59;1009.1;17.47;5;13.91;27.27;0.43199999999999994
+2021-09-20;Rio Cuarto Aero;87453;Rain in the morning and afternoon.;14.44;0.78;1020.3;21.31;4;11.7;17.18;10.02
+2021-09-21;Rio Cuarto Aero;87453;Clear throughout the day.;13.415;0.56;1025.9;15.31;7;6.5;20.33;0.0
+2021-09-22;Rio Cuarto Aero;87453;Heavy rain in the morning and afternoon.;13.495;0.54;1020.5;21.37;5;8.77;18.22;37.2312
+2021-09-23;Rio Cuarto Aero;87453;Clear throughout the day.;13.825000000000001;0.59;1022.0;9.11;8;4.89;22.76;0.0
+2021-09-24;Rio Cuarto Aero;87453;Clear throughout the day.;17.215;0.51;1019.9;21.13;8;8.76;25.67;0.0
+2021-09-25;Rio Cuarto Aero;87453;Windy in the afternoon.;19.905;0.49;1012.4;31.68;8;11.85;27.96;0.0
+2021-09-26;Rio Cuarto Aero;87453;Clear throughout the day.;17.985;0.48;1013.9;19.58;8;12.91;23.06;0.0
+2021-09-27;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;14.96;0.63;1017.6;15.42;7;8.82;21.1;0.0
+2021-09-28;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;13.16;0.77;1020.2;11.86;5;8.83;17.49;0.0648
+2021-09-29;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;18.424999999999997;0.65;1012.6;28.89;6;11.95;24.9;0.0
+2021-09-30;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;16.544999999999998;0.62;1008.4;24.51;6;12.12;20.97;0.4272
+2021-10-01;Rio Cuarto Aero;87453;Clear throughout the day.;15.765;0.41;1014.6;16.39;8;7.36;24.17;0.2784
+2021-10-02;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;16.765;0.34;1010.1;27.09;6;10.72;22.81;0.0168
+2021-10-03;Rio Cuarto Aero;87453;Clear throughout the day.;12.365;0.23;1019.0;12.33;8;5.02;19.71;0.0
+2021-10-04;Rio Cuarto Aero;87453;Clear throughout the day.;14.62;0.26;1017.3;11.12;8;5.11;24.13;0.0
+2021-10-05;Rio Cuarto Aero;87453;Clear throughout the day.;19.27;0.24;1010.5;25.14;8;11.55;26.99;0.0
+2021-10-06;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;12.265;0.41;1021.8;21.8;7;6.66;17.87;0.012
+2021-10-07;Rio Cuarto Aero;87453;Clear throughout the day.;13.77;0.4;1018.1;21.73;9;4.91;22.63;0.0
+2021-10-08;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;15.105;0.43;1015.5;21.2;6;9.25;20.96;0.012
+2021-10-09;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;16.445;0.49;1017.5;14.9;7;8.36;24.53;0.0048000000000000004
+2021-10-10;Rio Cuarto Aero;87453;Possible light rain in the morning and afternoon.;15.68;0.67;1016.0;11.43;4;11.3;20.06;2.388
+2021-10-11;Rio Cuarto Aero;87453;Clear throughout the day.;18.125;0.61;1016.2;10.49;9;9.97;26.28;0.0
+2021-10-12;Rio Cuarto Aero;87453;Rain overnight.;20.6;0.54;1008.8;23.23;7;13.53;27.67;1.4808
+2021-10-13;Rio Cuarto Aero;87453;Rain in the morning.;18.98;0.72;1007.9;13.23;6;13.88;24.08;24.019199999999998
+2021-10-14;Rio Cuarto Aero;87453;Light rain and windy in the afternoon.;15.75;0.73;1008.7;22.35;7;7.76;23.74;2.2344
+2021-10-15;Rio Cuarto Aero;87453;Clear throughout the day.;12.22;0.38;1022.7;12.42;9;5.34;19.1;0.0
+2021-10-16;Rio Cuarto Aero;87453;Clear throughout the day.;15.415;0.33;1020.6;18.02;8;7.45;23.38;0.0
+2021-10-17;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;17.125;0.35;1018.6;16.34;6;10.05;24.2;0.1656
+2021-10-18;Rio Cuarto Aero;87453;Clear throughout the day.;16.835;0.43;1021.7;10.94;9;8.72;24.95;0.4296
+2021-10-19;Rio Cuarto Aero;87453;Clear throughout the day.;19.695;0.33;1017.9;16.02;9;10.92;28.47;0.0
+2021-10-20;Rio Cuarto Aero;87453;Clear throughout the day.;21.885;0.27;1014.2;23.13;9;14.65;29.12;0.0
+2021-10-21;Rio Cuarto Aero;87453;Clear throughout the day.;24.0;0.28;1010.9;24.19;9;16.6;31.4;0.0648
+2021-10-22;Rio Cuarto Aero;87453;Rain until morning, starting again in the evening.;20.4;0.54;1008.4;16.62;6;15.28;25.52;4.668
+2021-10-23;Rio Cuarto Aero;87453;Rain in the morning.;17.72;0.55;1011.1;19.02;7;12.08;23.36;5.9208
+2021-10-24;Rio Cuarto Aero;87453;Clear throughout the day.;19.36;0.25;1014.8;12.78;10;10.07;28.65;0.0
+2021-10-25;Rio Cuarto Aero;87453;Clear throughout the day.;24.769999999999996;0.28;1011.2;13.95;10;16.49;33.05;0.0
+2021-10-26;Rio Cuarto Aero;87453;Windy overnight.;25.915;0.28;1011.8;14.89;10;15.28;36.55;0.0
+2021-10-27;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;28.225;0.16;1013.2;28.4;8;21.62;34.83;0.0
+2021-10-28;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;27.925;0.32;1014.5;29.09;10;22.0;33.85;0.036000000000000004
+2021-10-29;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;27.36;0.35;1012.0;20.82;7;20.19;34.53;0.2712
+2021-10-30;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;26.755;0.49;1011.6;16.3;7;20.33;33.18;4.123200000000001
+2021-10-31;Rio Cuarto Aero;87453;Rain throughout the day.;15.535;0.85;1019.7;18.42;5;10.98;20.09;11.7912
+2021-11-01;Rio Cuarto Aero;87453;Rain in the morning and afternoon.;12.635;0.87;1018.5;12.17;5;10.57;14.7;27.962400000000002
+2021-11-02;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;17.61;0.77;1015.9;8.59;6;12.55;22.67;0.4128
+2021-11-03;Rio Cuarto Aero;87453;Clear throughout the day.;20.79;0.63;1008.9;17.76;10;13.44;28.14;0.0
+2021-11-04;Rio Cuarto Aero;87453;Possible light rain in the evening and overnight.;14.3;0.78;1012.7;24.98;5;8.67;19.93;3.5232
+2021-11-05;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;13.555;0.48;1023.3;16.61;6;8.63;18.48;1.104
+2021-11-06;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;14.285;0.53;1022.0;11.87;7;8.5;20.07;0.9359999999999999
+2021-11-07;Rio Cuarto Aero;87453;Clear throughout the day.;17.955;0.54;1016.3;12.41;11;9.28;26.63;0.0144
+2021-11-08;Rio Cuarto Aero;87453;Clear throughout the day.;21.91;0.52;1014.0;16.15;11;14.3;29.52;0.0144
+2021-11-09;Rio Cuarto Aero;87453;Rain in the morning and afternoon.;17.705;0.77;1015.9;13.89;5;15.02;20.39;23.7672
+2021-11-10;Rio Cuarto Aero;87453;Possible light rain in the afternoon.;18.669999999999998;0.71;1015.8;13.47;5;12.87;24.47;3.8183999999999996
+2021-11-11;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;21.18;0.59;1016.7;21.61;10;14.33;28.03;0.1368
+2021-11-12;Rio Cuarto Aero;87453;Clear throughout the day.;22.68;0.51;1013.7;26.34;11;16.55;28.81;0.0
+2021-11-13;Rio Cuarto Aero;87453;Rain starting in the afternoon.;22.65;0.64;1006.9;29.82;11;15.46;29.84;14.212799999999998
+2021-11-14;Rio Cuarto Aero;87453;Clear throughout the day.;18.71;0.52;1013.1;15.73;12;10.88;26.54;4.896
+2021-11-15;Rio Cuarto Aero;87453;Possible light rain overnight.;22.1;0.53;1007.7;22.03;11;14.84;29.36;3.1895999999999995
+2021-11-16;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;14.579999999999998;0.5;1021.7;24.41;6;10.08;19.08;1.4832
+2021-11-17;Rio Cuarto Aero;87453;Clear throughout the day.;14.745;0.44;1018.0;12.8;11;6.16;23.33;0.0
+2021-11-18;Rio Cuarto Aero;87453;Clear throughout the day.;20.455;0.4;1012.1;13.06;12;11.26;29.65;0.0
+2021-11-19;Rio Cuarto Aero;87453;Clear throughout the day.;22.205;0.4;1014.2;13.0;12;14.42;29.99;0.0312
+2021-11-20;Rio Cuarto Aero;87453;Clear throughout the day.;25.88;0.34;1011.3;17.43;12;17.57;34.19;0.07919999999999999
+2021-11-21;Rio Cuarto Aero;87453;Clear throughout the day.;28.04;0.3;1008.2;16.64;11;20.52;35.56;0.024
+2021-11-22;Rio Cuarto Aero;87453;Clear throughout the day.;25.365000000000002;0.4;1007.3;17.42;12;18.86;31.87;0.2736
+2021-11-23;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;22.939999999999998;0.4;1014.3;22.88;10;15.32;30.56;0.019200000000000002
+2021-11-24;Rio Cuarto Aero;87453;Rain in the evening and overnight.;25.990000000000002;0.5;1006.1;30.28;12;18.39;33.59;16.4328
+2021-11-25;Rio Cuarto Aero;87453;Clear throughout the day.;23.189999999999998;0.53;1008.9;27.33;11;17.18;29.2;5.167199999999999
+2021-11-26;Rio Cuarto Aero;87453;Clear throughout the day.;22.59;0.37;1010.1;16.33;13;13.53;31.65;0.0
+2021-11-27;Rio Cuarto Aero;87453;Rain in the evening and overnight.;22.095;0.56;1006.7;23.14;9;16.35;27.84;10.5
+2021-11-28;Rio Cuarto Aero;87453;Possible light rain in the morning.;19.49;0.59;1011.9;21.03;9;13.26;25.72;4.6512
+2021-11-29;Rio Cuarto Aero;87453;Clear throughout the day.;21.555;0.43;1009.4;10.59;12;13.44;29.67;0.0
+2021-11-30;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;23.080000000000002;0.44;1008.8;16.05;9;15.72;30.44;2.1479999999999997
+2021-12-01;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;21.655;0.65;1010.7;16.68;8;15.5;27.81;1.944
+2021-12-02;Rio Cuarto Aero;87453;Clear throughout the day.;23.810000000000002;0.54;1010.8;21.22;12;17.17;30.45;0.9168
+2021-12-03;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;23.795;0.54;1010.4;18.33;7;19.25;28.34;2.4672
+2021-12-04;Rio Cuarto Aero;87453;Possible light rain until morning, starting again in the evening.;19.87;0.74;1016.2;13.41;8;15.62;24.12;8.4576
+2021-12-05;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;18.240000000000002;0.75;1019.6;10.51;7;14.54;21.94;0.8759999999999999
+2021-12-06;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;21.830000000000002;0.63;1017.8;13.73;9;15.49;28.17;0.32639999999999997
+2021-12-07;Rio Cuarto Aero;87453;Clear throughout the day.;24.39;0.49;1013.2;24.53;12;17.35;31.43;0.7128
+2021-12-08;Rio Cuarto Aero;87453;Rain in the evening and overnight.;23.16;0.57;1013.9;16.15;8;18.77;27.55;7.5456
+2021-12-09;Rio Cuarto Aero;87453;Rain throughout the day.;18.445;0.81;1015.5;10.87;6;16.52;20.37;16.152
+2021-12-10;Rio Cuarto Aero;87453;Light rain in the morning.;20.880000000000003;0.74;1010.6;14.55;7;16.37;25.39;8.267999999999999
+2021-12-11;Rio Cuarto Aero;87453;Rain overnight.;23.705;0.59;1003.7;13.74;11;16.95;30.46;0.30720000000000003
+2021-12-12;Rio Cuarto Aero;87453;Rain in the morning.;19.02;0.78;1005.0;15.1;6;15.73;22.31;14.4864
+2021-12-13;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;20.45;0.54;1012.9;12.35;10;14.22;26.68;0.18
+2021-12-14;Rio Cuarto Aero;87453;Rain in the morning and afternoon.;17.439999999999998;0.76;1013.5;11.16;6;15.07;19.81;16.053600000000003
+2021-12-15;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;20.990000000000002;0.62;1015.3;10.49;10;14.18;27.8;0.11280000000000001
+2021-12-16;Rio Cuarto Aero;87453;Clear throughout the day.;23.335;0.5;1014.0;20.42;14;15.46;31.21;0.0
+2021-12-17;Rio Cuarto Aero;87453;Clear throughout the day.;24.395;0.48;1013.6;23.52;11;17.16;31.63;0.0456
+2021-12-18;Rio Cuarto Aero;87453;Clear throughout the day.;26.46;0.44;1011.3;23.73;13;19.29;33.63;0.1272
+2021-12-19;Rio Cuarto Aero;87453;Clear throughout the day.;27.765;0.45;1008.5;17.0;13;20.71;34.82;1.6656
+2021-12-20;Rio Cuarto Aero;87453;Rain overnight.;27.92;0.53;1008.5;20.08;11;21.26;34.58;1.44
+2021-12-21;Rio Cuarto Aero;87453;Rain in the morning.;24.72;0.64;1008.0;13.4;11;19.58;29.86;6.767999999999999
+2021-12-22;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;24.265;0.54;1013.3;10.82;10;18.23;30.3;0.07680000000000001
+2021-12-23;Rio Cuarto Aero;87453;Clear throughout the day.;25.375;0.47;1012.6;16.19;14;17.95;32.8;0.0
+2021-12-24;Rio Cuarto Aero;87453;Clear throughout the day.;27.765;0.4;1008.2;13.33;12;20.71;34.82;1.1616
+2021-12-25;Rio Cuarto Aero;87453;Clear throughout the day.;25.37;0.31;1012.2;14.01;13;18.36;32.38;0.009600000000000001
+2021-12-26;Rio Cuarto Aero;87453;Clear throughout the day.;25.91;0.28;1012.0;15.09;14;17.42;34.4;0.0048000000000000004
+2021-12-27;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;27.155;0.35;1008.5;16.36;13;20.38;33.93;1.0008
+2021-12-28;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;28.645000000000003;0.41;1009.2;12.74;9;21.59;35.7;1.032
+2021-12-29;Rio Cuarto Aero;87453;Clear throughout the day.;27.64;0.39;1007.8;19.14;13;18.54;36.74;0.0
+2021-12-30;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;25.535;0.4;1008.2;20.91;11;21.35;29.72;0.3192
+2021-12-31;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;24.49;0.49;1005.4;14.84;11;14.51;34.47;0.2328
+2022-01-01;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;24.67;0.58;1001.8;13.35;10;19.49;29.85;2.5848
+2022-01-02;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;26.519999999999996;0.58;1002.7;14.12;11;18.31;34.73;5.4456
+2022-01-03;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;25.574999999999996;0.6;1006.4;13.64;8;18.24;32.91;5.3568
+2022-01-04;Rio Cuarto Aero;87453;Clear throughout the day.;24.72;0.5;1008.3;18.37;13;18.26;31.18;1.032
+2022-01-05;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;22.26;0.39;1013.8;14.28;7;14.56;29.96;0.0
+2022-01-06;Rio Cuarto Aero;87453;Clear throughout the day.;24.330000000000002;0.32;1011.9;21.65;14;16.21;32.45;0.15839999999999999
+2022-01-07;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;23.74;0.42;1012.0;15.86;7;17.24;30.24;1.1520000000000001
+2022-01-08;Rio Cuarto Aero;87453;Clear throughout the day.;25.490000000000002;0.43;1010.4;20.12;13;17.06;33.92;0.038400000000000004
+2022-01-09;Rio Cuarto Aero;87453;Clear throughout the day.;27.925;0.35;1009.4;21.81;12;20.08;35.77;0.0
+2022-01-10;Rio Cuarto Aero;87453;Clear throughout the day.;28.150000000000002;0.36;1010.1;13.87;13;18.35;37.95;0.0
+2022-01-11;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;30.049999999999997;0.32;1008.3;14.18;9;20.69;39.41;0.0552
+2022-01-12;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;31.909999999999997;0.27;1009.4;19.52;9;23.99;39.83;0.43920000000000003
+2022-01-13;Rio Cuarto Aero;87453;Clear throughout the day.;33.295;0.17;1007.0;29.41;14;26.06;40.53;0.0
+2022-01-14;Rio Cuarto Aero;87453;Clear throughout the day.;33.545;0.17;1005.0;25.43;11;25.54;41.55;0.0
+2022-01-15;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;32.965;0.33;1002.9;20.39;12;25.75;40.18;1.2144
+2022-01-16;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;26.545;0.55;1002.8;14.0;9;21.35;31.74;2.9568000000000003
+2022-01-17;Rio Cuarto Aero;87453;Rain until morning, starting again in the evening.;18.86;0.86;1007.0;12.61;7;15.87;21.85;5.6544
+2022-01-18;Rio Cuarto Aero;87453;Light rain in the morning.;14.405000000000001;0.84;1015.9;19.62;6;12.06;16.75;6.427199999999999
+2022-01-19;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;19.49;0.72;1015.9;12.97;8;12.49;26.49;0.7968
+2022-01-20;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;24.055;0.74;1010.8;15.83;8;18.08;30.03;0.8544
+2022-01-21;Rio Cuarto Aero;87453;Rain and humid throughout the day.;25.97;0.8;1005.3;12.37;8;21.66;30.28;24.5976
+2022-01-22;Rio Cuarto Aero;87453;Rain throughout the day.;22.314999999999998;0.87;1005.3;11.7;7;19.11;25.52;19.123199999999997
+2022-01-23;Rio Cuarto Aero;87453;Rain in the morning.;23.11;0.81;1009.7;12.13;7;18.86;27.36;7.845600000000001
+2022-01-24;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;24.17;0.75;1009.9;14.94;8;19.02;29.32;0.22319999999999998
+2022-01-25;Rio Cuarto Aero;87453;Possible light rain in the morning.;25.54;0.76;1007.1;15.63;8;20.59;30.49;2.1072
+2022-01-26;Rio Cuarto Aero;87453;Possible light rain until morning, starting again in the evening.;23.715;0.79;1011.0;15.93;8;19.83;27.6;8.5272
+2022-01-27;Rio Cuarto Aero;87453;Overcast throughout the day.;19.095;0.58;1020.5;14.89;7;13.48;24.71;0.948
+2022-01-28;Rio Cuarto Aero;87453;Clear throughout the day.;20.785;0.51;1014.4;18.46;13;12.76;28.81;0.0024000000000000002
+2022-01-29;Rio Cuarto Aero;87453;Clear throughout the day.;24.11;0.52;1009.8;19.17;13;16.33;31.89;0.0648
+2022-01-30;Rio Cuarto Aero;87453;Clear throughout the day.;25.865000000000002;0.51;1006.4;15.24;12;18.28;33.45;1.6872
+2022-01-31;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;22.425;0.53;1011.3;14.24;9;16.91;27.94;3.9240000000000004
+2022-02-01;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;25.86;0.54;1008.2;18.72;12;17.74;33.98;0.1152
+2022-02-02;Rio Cuarto Aero;87453;Rain in the evening and overnight.;25.055;0.64;1008.2;17.37;6;20.04;30.07;5.5464
+2022-02-03;Rio Cuarto Aero;87453;Rain overnight.;24.67;0.66;1009.0;10.59;10;18.06;31.28;3.1776
+2022-02-04;Rio Cuarto Aero;87453;Rain in the morning.;22.445;0.69;1009.2;12.06;6;16.91;27.98;12.2928
+2022-02-05;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;18.689999999999998;0.66;1015.3;23.75;7;15.0;22.38;0.5015999999999999
+2022-02-06;Rio Cuarto Aero;87453;Clear throughout the day.;18.255000000000003;0.44;1019.0;13.49;13;10.46;26.05;0.0
+2022-02-07;Rio Cuarto Aero;87453;Clear throughout the day.;19.424999999999997;0.43;1017.7;13.88;12;10.04;28.81;0.0
+2022-02-08;Rio Cuarto Aero;87453;Clear throughout the day.;22.955;0.51;1014.1;17.77;12;14.25;31.66;0.0
+2022-02-09;Rio Cuarto Aero;87453;Clear throughout the day.;24.985;0.47;1009.6;20.92;11;16.93;33.04;0.0
+2022-02-10;Rio Cuarto Aero;87453;Clear throughout the day.;27.07;0.37;1004.6;23.0;12;19.12;35.02;0.39360000000000006
+2022-02-11;Rio Cuarto Aero;87453;Rain until evening.;19.315;0.84;1014.4;20.23;5;13.81;24.82;31.819200000000002
+2022-02-12;Rio Cuarto Aero;87453;Clear throughout the day.;15.635;0.6;1022.0;11.31;11;9.23;22.04;0.048
+2022-02-13;Rio Cuarto Aero;87453;Clear throughout the day.;18.12;0.49;1014.8;13.27;12;8.55;27.69;0.0
+2022-02-14;Rio Cuarto Aero;87453;Clear throughout the day.;23.495;0.49;1010.3;10.89;12;14.72;32.27;0.0
+2022-02-15;Rio Cuarto Aero;87453;Clear throughout the day.;25.94;0.46;1009.3;16.1;12;17.57;34.31;0.0216
+2022-02-16;Rio Cuarto Aero;87453;Clear throughout the day.;26.46;0.49;1010.3;16.95;10;20.39;32.53;0.8976000000000001
+2022-02-17;Rio Cuarto Aero;87453;Clear throughout the day.;21.855;0.55;1016.5;11.96;12;15.24;28.47;0.0
+2022-02-18;Rio Cuarto Aero;87453;Clear throughout the day.;22.82;0.55;1010.5;19.8;12;14.54;31.1;0.0
+2022-02-19;Rio Cuarto Aero;87453;Rain in the morning and afternoon.;20.695;0.73;1007.8;12.35;6;17.28;24.11;9.8208
+2022-02-20;Rio Cuarto Aero;87453;Clear throughout the day.;22.16;0.6;1009.2;11.07;11;14.86;29.46;0.06
+2022-02-21;Rio Cuarto Aero;87453;Possible light rain in the morning.;18.369999999999997;0.71;1015.6;12.11;5;15.25;21.49;3.4872000000000005
+2022-02-22;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;19.744999999999997;0.69;1018.1;10.21;7;14.29;25.2;0.6888
+2022-02-23;Rio Cuarto Aero;87453;Rain overnight.;21.475;0.63;1011.2;22.45;9;15.32;27.63;1.1736
+2022-02-24;Rio Cuarto Aero;87453;Rain in the morning.;19.225;0.67;1011.5;15.49;10;13.21;25.24;18.4416
+2022-02-25;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;21.380000000000003;0.62;1013.1;18.46;9;14.8;27.96;0.024
+2022-02-26;Rio Cuarto Aero;87453;Rain in the afternoon and evening.;25.619999999999997;0.74;1008.2;14.76;8;19.66;31.58;9.3816
+2022-02-27;Rio Cuarto Aero;87453;Possible light rain in the morning and afternoon.;21.955;0.84;1006.7;15.01;7;19.87;24.04;7.315200000000001
+2022-02-28;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;21.18;0.58;1013.7;11.0;9;15.38;26.98;0.4152
+2022-03-01;Rio Cuarto Aero;87453;Clear throughout the day.;22.84;0.43;1011.8;18.63;11;14.12;31.56;0.0
+2022-03-02;Rio Cuarto Aero;87453;Clear throughout the day.;23.36;0.5;1011.6;14.13;11;16.97;29.75;0.0
+2022-03-03;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;24.755;0.56;1009.1;18.06;8;16.46;33.05;0.1272
+2022-03-04;Rio Cuarto Aero;87453;Rain in the morning and overnight.;24.465;0.7;1008.0;13.0;9;19.68;29.25;3.636
+2022-03-05;Rio Cuarto Aero;87453;Rain throughout the day.;21.075;0.87;1008.9;10.88;6;19.11;23.04;24.693599999999996
+2022-03-06;Rio Cuarto Aero;87453;Possible light rain in the morning and overnight.;22.060000000000002;0.78;1006.5;13.3;7;17.2;26.92;2.2872
+2022-03-07;Rio Cuarto Aero;87453;Clear throughout the day.;20.83;0.65;1010.4;15.9;10;16.38;25.28;1.2864
+2022-03-08;Rio Cuarto Aero;87453;Clear throughout the day.;21.07;0.56;1011.1;23.82;10;14.92;27.22;0.0312
+2022-03-09;Rio Cuarto Aero;87453;Possible light rain in the evening and overnight.;22.055;0.76;1010.9;16.52;8;17.76;26.35;3.6864
+2022-03-10;Rio Cuarto Aero;87453;Clear throughout the day.;19.585;0.51;1016.7;10.87;9;14.24;24.93;0.6024
+2022-03-11;Rio Cuarto Aero;87453;Clear throughout the day.;17.38;0.53;1019.8;13.12;10;10.78;23.98;0.0528
+2022-03-12;Rio Cuarto Aero;87453;Clear throughout the day.;19.63;0.56;1016.6;19.04;9;11.87;27.39;0.0
+2022-03-13;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;20.67;0.58;1016.9;9.61;8;14.16;27.18;0.7656
+2022-03-14;Rio Cuarto Aero;87453;Clear throughout the day.;22.705000000000002;0.53;1014.1;11.28;9;13.97;31.44;0.0
+2022-03-15;Rio Cuarto Aero;87453;Clear throughout the day.;23.765;0.48;1013.4;12.58;8;16.75;30.78;0.0
+2022-03-16;Rio Cuarto Aero;87453;Clear throughout the day.;25.505000000000003;0.52;1008.7;19.93;9;17.48;33.53;0.0
+2022-03-17;Rio Cuarto Aero;87453;Rain overnight.;22.845;0.59;1007.7;20.85;5;16.7;28.99;2.484
+2022-03-18;Rio Cuarto Aero;87453;Rain in the morning.;17.240000000000002;0.69;1018.8;12.78;6;12.86;21.62;10.5792
+2022-03-19;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;15.915;0.6;1022.1;22.97;7;9.52;22.31;0.0
+2022-03-20;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;15.760000000000002;0.58;1020.1;29.89;8;10.42;21.1;0.0
+2022-03-21;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;18.555;0.62;1013.5;25.02;7;11.97;25.14;0.0
+2022-03-22;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;20.415;0.65;1010.9;12.05;7;13.8;27.03;0.0
+2022-03-23;Rio Cuarto Aero;87453;Rain and windy in the evening.;21.025;0.71;1004.6;22.05;8;12.8;29.25;8.0304
+2022-03-24;Rio Cuarto Aero;87453;Windy until evening.;14.629999999999999;0.41;1013.1;36.69;7;9.36;19.9;0.20400000000000001
+2022-03-25;Rio Cuarto Aero;87453;Clear throughout the day.;17.27;0.4;1014.3;30.78;6;11.01;23.53;0.4704
+2022-03-26;Rio Cuarto Aero;87453;Clear throughout the day.;17.595;0.44;1011.6;10.5;9;7.5;27.69;0.0
+2022-03-27;Rio Cuarto Aero;87453;Clear throughout the day.;20.669999999999998;0.42;1011.3;14.99;7;10.76;30.58;0.0
+2022-03-28;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;24.095;0.52;1008.6;24.83;7;16.46;31.73;0.0072
+2022-03-29;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;19.025;0.49;1009.2;26.16;6;13.58;24.47;0.7296
+2022-03-30;Rio Cuarto Aero;87453;Clear throughout the day.;11.99;0.22;1022.8;14.3;8;5.27;18.71;0.0
+2022-03-31;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;13.445;0.31;1023.7;13.76;7;4.65;22.24;0.0
+2022-04-01;Rio Cuarto Aero;87453;Clear throughout the day.;15.45;0.38;1021.8;23.84;8;6.67;24.23;0.0
+2022-04-02;Rio Cuarto Aero;87453;Clear throughout the day.;17.41;0.45;1015.0;28.17;7;8.89;25.93;0.0
+2022-04-03;Rio Cuarto Aero;87453;Clear throughout the day.;16.025;0.46;1012.8;19.92;8;9.34;22.71;0.0
+2022-04-04;Rio Cuarto Aero;87453;Clear throughout the day.;15.77;0.42;1016.8;15.32;8;5.49;26.05;0.0
+2022-04-05;Rio Cuarto Aero;87453;Clear throughout the day.;20.36;0.52;1013.3;16.83;8;10.77;29.95;0.0672
+2022-04-06;Rio Cuarto Aero;87453;Clear throughout the day.;21.66;0.6;1011.5;13.69;8;12.35;30.97;0.3888
+2022-04-07;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;22.27;0.64;1012.3;13.66;6;14.38;30.16;0.7824
+2022-04-08;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;23.345;0.62;1012.2;18.58;6;16.64;30.05;1.62
+2022-04-09;Rio Cuarto Aero;87453;Clear throughout the day.;22.39;0.62;1010.1;27.28;6;15.47;29.31;0.1512
+2022-04-10;Rio Cuarto Aero;87453;Rain starting in the afternoon.;20.814999999999998;0.77;1006.7;17.85;5;16.89;24.74;4.413600000000001
+2022-04-11;Rio Cuarto Aero;87453;Possible light rain in the morning.;16.990000000000002;0.66;1010.6;18.33;6;12.61;21.37;3.8112
+2022-04-12;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;13.5;0.64;1013.9;8.95;4;9.79;17.21;1.2504
+2022-04-13;Rio Cuarto Aero;87453;Clear throughout the day.;14.665;0.44;1019.6;9.15;6;5.49;23.84;0.0
+2022-04-14;Rio Cuarto Aero;87453;Clear throughout the day.;15.6;0.41;1021.4;11.79;6;6.2;25.0;0.0
+2022-04-15;Rio Cuarto Aero;87453;Clear throughout the day.;16.905;0.42;1017.9;22.5;7;9.66;24.15;0.0
+2022-04-16;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;17.695;0.47;1019.5;16.23;5;11.18;24.21;0.06
+2022-04-17;Rio Cuarto Aero;87453;Clear throughout the day.;17.465;0.5;1019.3;15.81;6;10.36;24.57;0.0
+2022-04-18;Rio Cuarto Aero;87453;Clear throughout the day.;18.27;0.57;1015.0;22.3;6;10.31;26.23;0.0
+2022-04-19;Rio Cuarto Aero;87453;Overcast throughout the day.;19.85;0.56;1012.1;22.69;4;13.21;26.49;0.0
+2022-04-20;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;19.919999999999998;0.67;1013.1;17.94;5;13.76;26.08;2.2632
+2022-04-21;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;16.295;0.6;1012.9;14.19;5;7.34;25.25;0.4368
+2022-04-22;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;15.215;0.71;1008.9;13.64;4;10.83;19.6;1.992
+2022-04-23;Rio Cuarto Aero;87453;Clear throughout the day.;19.0;0.59;1005.5;17.31;4;9.4;28.6;0.1704
+2022-04-24;Rio Cuarto Aero;87453;Clear throughout the day.;20.240000000000002;0.64;1001.9;20.05;5;9.93;30.55;0.0
+2022-04-25;Rio Cuarto Aero;87453;Clear throughout the day.;19.935;0.56;1006.0;17.23;5;14.76;25.11;0.0576
+2022-04-26;Rio Cuarto Aero;87453;Clear throughout the day.;23.43;0.64;999.3;19.22;5;14.86;32.0;0.2304
+2022-04-27;Rio Cuarto Aero;87453;Clear throughout the day.;15.049999999999999;0.41;1008.7;18.35;5;8.77;21.33;0.38160000000000005
+2022-04-28;Rio Cuarto Aero;87453;Clear throughout the day.;11.895;0.3;1021.6;14.07;5;5.99;17.8;0.0
+2022-04-29;Rio Cuarto Aero;87453;Clear throughout the day.;11.094999999999999;0.37;1024.5;17.46;5;3.06;19.13;0.0
+2022-04-30;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;15.135000000000002;0.43;1017.6;15.97;5;8.26;22.01;0.0
+2022-05-01;Rio Cuarto Aero;87453;Clear throughout the day.;14.105;0.51;1016.8;11.57;5;6.52;21.69;0.0
+2022-05-02;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;12.754999999999999;0.59;1021.5;11.84;3;6.42;19.09;0.2616
+2022-05-03;Rio Cuarto Aero;87453;Clear throughout the day.;13.469999999999999;0.56;1022.1;12.88;5;4.67;22.27;0.0
+2022-05-04;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;15.98;0.43;1017.1;15.86;4;5.85;26.11;0.0
+2022-05-05;Rio Cuarto Aero;87453;Clear throughout the day.;16.665;0.45;1015.9;14.48;5;6.35;26.98;0.0
+2022-05-06;Rio Cuarto Aero;87453;Clear throughout the day.;16.695;0.5;1019.0;9.47;4;7.1;26.29;0.0
+2022-05-07;Rio Cuarto Aero;87453;Clear throughout the day.;17.225;0.56;1017.9;16.86;5;8.0;26.45;0.0
+2022-05-08;Rio Cuarto Aero;87453;Overcast throughout the day.;19.68;0.61;1014.4;15.95;3;12.59;26.77;0.0
+2022-05-09;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;19.175;0.62;1017.9;9.72;3;12.44;25.91;0.0
+2022-05-10;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;16.990000000000002;0.66;1017.3;9.06;4;9.55;24.43;0.0
+2022-05-11;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;16.880000000000003;0.63;1018.7;13.68;4;11.16;22.6;0.0264
+2022-05-12;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;15.25;0.67;1014.2;26.6;3;10.04;20.46;0.0
+2022-05-13;Rio Cuarto Aero;87453;Overcast throughout the day.;16.13;0.7;1014.9;14.2;3;11.44;20.82;0.2424
+2022-05-14;Rio Cuarto Aero;87453;Rain in the evening and overnight.;12.575;0.65;1020.3;9.79;3;8.62;16.53;4.1975999999999996
+2022-05-15;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;11.435;0.61;1026.1;11.61;4;6.11;16.76;3.4224
+2022-05-16;Rio Cuarto Aero;87453;Clear throughout the day.;9.535;0.5;1029.7;17.45;4;2.88;16.19;0.0072
+2022-05-17;Rio Cuarto Aero;87453;Clear throughout the day.;8.685;0.62;1030.7;15.96;4;1.73;15.64;0.0
+2022-05-18;Rio Cuarto Aero;87453;Clear throughout the day.;7.54;0.56;1026.9;11.51;4;-2.42;17.5;0.0
+2022-05-19;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;10.91;0.48;1018.5;19.23;3;2.67;19.15;0.0
+2022-05-20;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;11.174999999999999;0.51;1015.6;8.6;3;1.52;20.83;0.0
+2022-05-21;Rio Cuarto Aero;87453;Clear throughout the day.;13.885;0.43;1020.3;11.01;4;6.61;21.16;0.0
+2022-05-22;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;15.245;0.47;1014.9;19.68;3;6.16;24.33;0.0
+2022-05-23;Rio Cuarto Aero;87453;Overcast throughout the day.;13.92;0.62;1012.9;9.87;3;8.2;19.64;0.0
+2022-05-24;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;12.815;0.73;1013.7;11.67;3;7.64;17.99;0.0144
+2022-05-25;Rio Cuarto Aero;87453;Overcast throughout the day.;9.71;0.74;1021.1;12.94;3;6.84;12.58;0.2928
+2022-05-26;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;9.915;0.67;1023.4;14.42;3;4.27;15.56;0.0504
+2022-05-27;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;11.145000000000001;0.67;1018.7;8.77;3;5.69;16.6;0.0
+2022-05-28;Rio Cuarto Aero;87453;Possible light rain overnight.;12.205;0.69;1014.4;10.1;3;6.82;17.59;0.3984
+2022-05-29;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;8.405000000000001;0.53;1019.0;11.52;2;4.25;12.56;1.7519999999999998
+2022-05-30;Rio Cuarto Aero;87453;Clear throughout the day.;6.105;0.36;1022.0;9.74;3;-0.92;13.13;0.0
+2022-05-31;Rio Cuarto Aero;87453;Overcast throughout the day.;7.8149999999999995;0.36;1020.0;15.68;3;2.3;13.33;0.0528
+2022-06-01;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;9.459999999999999;0.43;1020.2;12.36;3;4.64;14.28;0.0072
+2022-06-02;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;9.844999999999999;0.53;1021.9;15.46;2;4.0;15.69;0.1344
+2022-06-03;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;9.5;0.56;1019.7;27.05;3;4.02;14.98;0.0
+2022-06-04;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;11.38;0.6;1015.2;19.44;3;3.96;18.8;0.0
+2022-06-05;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;10.5;0.67;1015.9;8.89;3;2.13;18.87;0.0
+2022-06-06;Rio Cuarto Aero;87453;Clear throughout the day.;12.235000000000001;0.61;1016.4;10.17;3;3.12;21.35;0.0
+2022-06-07;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;14.23;0.56;1012.3;14.52;2;5.7;22.76;0.0
+2022-06-08;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;12.864999999999998;0.62;1014.7;10.57;3;4.51;21.22;0.0
+2022-06-09;Rio Cuarto Aero;87453;Clear throughout the day.;12.815;0.58;1020.3;16.38;3;6.32;19.31;0.0048000000000000004
+2022-06-10;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;7.074999999999999;0.31;1030.0;10.28;3;-0.63;14.78;0.0
+2022-06-11;Rio Cuarto Aero;87453;Clear throughout the day.;11.285;0.51;1023.8;12.56;3;1.63;20.94;0.0
+2022-06-12;Rio Cuarto Aero;87453;Clear throughout the day.;12.56;0.49;1019.3;16.15;3;1.93;23.19;0.0
+2022-06-13;Rio Cuarto Aero;87453;Windy overnight.;14.98;0.34;1014.3;29.23;3;6.96;23.0;0.0
+2022-06-14;Rio Cuarto Aero;87453;Overcast throughout the day.;12.815;0.36;1011.9;15.44;3;5.8;19.83;0.0
+2022-06-15;Rio Cuarto Aero;87453;Clear throughout the day.;10.95;0.46;1015.6;12.9;3;3.81;18.09;0.0
+2022-06-16;Rio Cuarto Aero;87453;Clear throughout the day.;9.889999999999999;0.54;1015.8;13.92;3;2.9;16.88;0.0
+2022-06-17;Rio Cuarto Aero;87453;Clear throughout the day.;11.15;0.43;1017.6;13.93;3;4.05;18.25;0.0
+2022-06-18;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;11.75;0.33;1016.9;13.58;3;2.71;20.79;0.0
+2022-06-19;Rio Cuarto Aero;87453;Partly cloudy throughout the day.;10.08;0.31;1016.7;10.71;3;1.39;18.77;0.0
+2022-06-20;Rio Cuarto Aero;87453;Overcast throughout the day.;12.155000000000001;0.38;1013.7;12.67;2;5.03;19.28;0.0
+2022-06-21;Rio Cuarto Aero;87453;Mostly cloudy throughout the day.;8.38;0.61;1017.9;15.34;2;2.85;13.91;0.0
+2022-06-22;Rio Cuarto Aero;87453;Overcast throughout the day.;6.015000000000001;0.64;1020.9;9.08;2;2.8;9.23;0.192
